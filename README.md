@@ -1,9 +1,9 @@
-# CarCareSolutionsKB
+<h1 align="center">CarCareSolutionsKB</h1>
 
 ![image](https://github.com/user-attachments/assets/ef624f8c-aac3-4efb-b978-35518da294ab)
 
 
-CarCareSolutionKB is a Knowledge base for first of the data cleaning and preprocessing
+"CarCareSolutionKB is a knowledge base providing essential information on data cleaning and preprocessing techniques for ensuring high-quality data analysis."
 
 # Data Cleaning and Preprocessing Resource Hub
 
